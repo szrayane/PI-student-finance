@@ -1,10 +1,10 @@
-package serviceimpl;
-import dto.UsuarioDTO;
-import model.Usuario;
+package com.example.PI_student_finance.serviceimpl;
+import com.example.PI_student_finance.dto.UsuarioDTO;
+import com.example.PI_student_finance.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.UsuarioRepository;
-import service.UsuarioService;
+import com.example.PI_student_finance.repository.UsuarioRepository;
+import com.example.PI_student_finance.service.UsuarioService;
 
 import java.util.List;
 

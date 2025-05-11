@@ -1,4 +1,4 @@
-package dto;
+package com.example.PI_student_finance.dto;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import java.math.BigDecimal;

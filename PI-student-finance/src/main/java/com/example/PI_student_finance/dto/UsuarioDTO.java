@@ -1,4 +1,4 @@
-package dto;
+package com.example.PI_student_finance.dto;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 

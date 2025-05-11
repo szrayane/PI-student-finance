@@ -1,11 +1,11 @@
-package controller;
+package com.example.PI_student_finance.controller;
 import jakarta.validation.Valid;
-import model.Usuario;
+import com.example.PI_student_finance.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import repository.UsuarioRepository;
+import com.example.PI_student_finance.repository.UsuarioRepository;
 import java.util.List;
 
 @RestController

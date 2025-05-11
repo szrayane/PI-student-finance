@@ -17,7 +17,6 @@
 		<springdoc.version>1.7.0</springdoc.version>
 	</properties>
 
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -86,12 +85,16 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${spring-boot.version}</version>
 			</plugin>
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<source>16</source>
-					<target>16</target>
+					<source>21</source> <!-- Configurando para a versão 21 do Java -->
+					<target>21</target> <!-- Configurando para a versão 21 do Java -->
+					<compilerArgs>
+						<arg>-parameters</arg> <!-- Adicionando a flag -parameters -->
+					</compilerArgs>
 				</configuration>
 			</plugin>
 		</plugins>
