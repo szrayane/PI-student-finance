@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { createUser } from '../services/userService'
+import './Cadastro.css'
 
 export default function Register() {
   const [form, setForm] = useState({ name: '', email: '', password: '' })
@@ -14,7 +14,7 @@ export default function Register() {
   }
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className="register-form">
       <input name="name" placeholder="Nome" onChange={handleChange} />
       <input name="email" placeholder="Email" onChange={handleChange} />
       <input name="password" type="password" placeholder="Senha" onChange={handleChange} />

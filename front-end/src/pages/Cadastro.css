@@ -1,8 +1,7 @@
-.appHeader {
+.register-form {
   display: flex;
   flex-direction: column;
-  width: auto;
-  align-items: center;
+  width: 300px;
   margin: 20px auto;
   gap: 10px;
 }
