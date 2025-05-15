@@ -30,3 +30,13 @@
 .cadastro:hover {
   background-color: rgba(3, 108, 139, 0.918);
 }
+
+.appHeader {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  align-items: center;
+  margin: 20px auto;
+  gap: 10px;
+  font-size: 50px;
+}
