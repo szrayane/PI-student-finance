@@ -15,10 +15,12 @@ export default function Register() {
 
   return (
     <form onSubmit={handleSubmit} className="register-form">
-      <input name="name" placeholder="Nome" onChange={handleChange} />
-      <input name="email" placeholder="Email" onChange={handleChange} />
-      <input name="password" type="password" placeholder="Senha" onChange={handleChange} />
-      <button type="submit">Cadastrar</button>
+      <input className="input" name="name" placeholder="Nome" onChange={handleChange} />
+      <input className="input" name="email" placeholder="Email" onChange={handleChange} />
+      <input className="input" name="password" type="password" placeholder="Senha" onChange={handleChange} />
+      <button className="cadastro" type="submit">
+        Cadastrar
+      </button>
     </form>
   )
 }
