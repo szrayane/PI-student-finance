@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './Cadastro.css'
+import { Link } from 'react-router-dom'
 
 export default function Register() {
   const [form, setForm] = useState({ nome: '', email: '', senha: '' })
@@ -45,6 +46,9 @@ export default function Register() {
         <button className="cadastro" type="submit">
           Cadastrar
         </button>
+        <p className="register-link">
+          Ja possue uma conta? <Link to="/login">Faça login</Link>
+        </p>
       </form>
     </>
   )
