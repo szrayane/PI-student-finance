@@ -23,6 +23,10 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
 - MySQL (ou H2 para testes)
 - Lombok
 - JUnit 5 + Mockito
+- React
+- React router
+- Javascript
+- Css
 
 ---
 
@@ -35,3 +39,5 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
    </td>
   </tr>
 </table>
+
+## Como iniciar o projeto
