@@ -1,0 +1,105 @@
+.dashboard-container {
+  padding: 40px;
+  background-color: #242424;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-title {
+  font-size: 2em;
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.dashboard-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.expense-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.expense-card {
+  background-color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.expense-name {
+  font-size: 1.1em;
+  color: #333;
+}
+
+.expense-value {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #d9534f;
+}
+
+.chart-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ... Estilos anteriores ... */
+
+.expense-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.form-input {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  flex: 1;
+  min-width: 180px;
+}
+
+.form-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 16px;
+  font-size: 1em;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  min-width: 100px;
+}
+
+.form-button:hover {
+  background-color: #45a049;
+}
+
+.remove-button {
+  background: transparent;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+  color: #d9534f;
+  margin-left: 10px;
+}
+
+.remove-button:hover {
+  color: #c9302c;
+}
+
+.expense-card > div {
+  display: flex;
+  flex-direction: column;
+}

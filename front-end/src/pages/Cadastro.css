@@ -1,0 +1,47 @@
+.register-form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 400px;
+  margin: 20px auto;
+  gap: 15px;
+  justify-content: center;
+}
+
+.input {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.cadastro {
+  font-size: 25px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  border: none;
+  padding: 10px 0px 10px 0px;
+  margin-left: 23%;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+  background-color: #3477eb;
+}
+
+.cadastro:hover {
+  background-color: #2558af;
+}
+
+.appHeader {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  align-items: center;
+  margin: 20px auto;
+  gap: 10px;
+  font-size: 50px;
+}
+
+.register-link {
+  text-align: center;
+}
