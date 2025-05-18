@@ -39,5 +39,3 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
    </td>
   </tr>
 </table>
-
-## Como iniciar o projeto
