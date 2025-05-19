@@ -1,4 +1,4 @@
-# 💸 Controle Financeiro para Estudantes
+z# 💸 Controle Financeiro para Estudantes
 
 Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estudantes a gerenciar suas despesas e hábitos financeiros.
 
@@ -27,6 +27,11 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
 - React router
 - Javascript
 - Css
+---
+
+<video src='https://github.com/szrayane/PI-student-finance/issues/7#issue-3075055334' controls width='600'>
+a
+</video> 
 
 ---
 
