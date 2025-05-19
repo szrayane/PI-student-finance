@@ -30,7 +30,7 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
 ---
 
 <video src='https://github.com/szrayane/PI-student-finance/issues/7#issue-3075055334' controls width='600'>
-a
+Your browser does not support the video tag.
 </video> 
 
 ---
