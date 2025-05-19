@@ -1,4 +1,4 @@
-z# 💸 Controle Financeiro para Estudantes
+# 💸 Controle Financeiro para Estudantes
 
 Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estudantes a gerenciar suas despesas e hábitos financeiros.
 
@@ -29,7 +29,16 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
 - Css
 ---
 
-[!Link do video de demonstracao do projeto](https://youtu.be/r3AdQROdZho)
+[Link do video de demonstracao do projeto](https://youtu.be/r3AdQROdZho)
+
+---
+
+## Para acessar o front-end do projeto
+
+Clone o repositório, entre na pasta front-end e digite o seguinte comando
+"""
+npm run dev
+"""
 
 ---
 
