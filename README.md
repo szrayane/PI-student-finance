@@ -35,10 +35,19 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
 
 ## Para acessar o front-end do projeto
 
-Clone o repositório, entre na pasta front-end e digite o seguinte comando
-"""
+Clone o repositório através do comando
+
+```
+git clone https://github.com/szrayane/PI-student-finance.git
+```
+
+Entre na pasta front-end e digite o seguinte comando
+
+```
 npm run dev
-"""
+```
+
+Agora basta abrir o link do localhost
 
 ---
 
