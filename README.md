@@ -37,5 +37,7 @@ Aplicação web backend desenvolvida com **Java + Spring Boot** para ajudar estu
    </td>
    <td align="center"> <img src="https://avatars.githubusercontent.com/u/69654449?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Bruno Campos</a> 
    </td>
+    <td align="center"> <img src="https://avatars.githubusercontent.com/u/82682533?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Felipe Menezes</a> 
+   </td>
   </tr>
 </table>
