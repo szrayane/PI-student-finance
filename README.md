@@ -60,5 +60,6 @@ Agora basta abrir o link do localhost
    </td>
     <td align="center"> <img src="https://avatars.githubusercontent.com/u/82682533?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Felipe Menezes</a> 
    </td>
+  <td align="center"> <img src="https://avatars.githubusercontent.com/u/138630112?v=4" width=175/></br><a href="https://github.com/LycanRk)">Pedro Vieira</a> 
   </tr>
 </table>
