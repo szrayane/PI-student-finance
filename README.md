@@ -56,10 +56,10 @@ Agora basta abrir o link do localhost
   <tr>
     <td align="center"> <img src="https://avatars.githubusercontent.com/u/133218648?v=4" width=175/></br><a href="https://github.com/szrayane">Rayane Souza</a> 
    </td>
-   <td align="center"> <img src="https://avatars.githubusercontent.com/u/69654449?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Bruno Campos</a> 
+   <td align="center"> <img src="https://avatars.githubusercontent.com/u/69654449?v=4" width=175/></br><a href="https://github.com/BpCampos">Bruno Campos</a> 
    </td>
-    <td align="center"> <img src="https://avatars.githubusercontent.com/u/82682533?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Felipe Menezes</a> 
+    <td align="center"> <img src="https://avatars.githubusercontent.com/u/82682533?v=4" width=175/></br><a href="https://github.com/mfelipe758">Felipe Menezes</a> 
    </td>
-  <td align="center"> <img src="https://avatars.githubusercontent.com/u/138630112?v=4" width=175/></br><a href="https://github.com/LycanRk)">Pedro Vieira</a> 
+  <td align="center"> <img src="https://avatars.githubusercontent.com/u/138630112?v=4" width=175/></br><a href="https://github.com/LycanRk">Pedro Vieira</a> 
   </tr>
 </table>
